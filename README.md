@@ -1,5 +1,5 @@
 # Matriz em espiral
-Resolução do desafio Calculando Estatísticas Simples, dojopuzzles.com/problemas/exibe/sequencia-de-cinco/
+Resolução do desafio Sequência de Cinco, dojopuzzles.com/problemas/exibe/sequencia-de-cinco/
 
 # Quer submeter outra solução?
 - clone este repositório
